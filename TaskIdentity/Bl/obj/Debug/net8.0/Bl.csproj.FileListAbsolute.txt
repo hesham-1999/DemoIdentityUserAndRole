@@ -1,0 +1,15 @@
+D:\TaskIdentity\Bl\bin\Debug\net8.0\Bl.deps.json
+D:\TaskIdentity\Bl\bin\Debug\net8.0\Bl.dll
+D:\TaskIdentity\Bl\bin\Debug\net8.0\Bl.pdb
+D:\TaskIdentity\Bl\bin\Debug\net8.0\DAL.dll
+D:\TaskIdentity\Bl\bin\Debug\net8.0\DAL.pdb
+D:\TaskIdentity\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+D:\TaskIdentity\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaskIdentity\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+D:\TaskIdentity\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+D:\TaskIdentity\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+D:\TaskIdentity\Bl\obj\Debug\net8.0\Bl.csproj.CopyComplete
+D:\TaskIdentity\Bl\obj\Debug\net8.0\Bl.dll
+D:\TaskIdentity\Bl\obj\Debug\net8.0\refint\Bl.dll
+D:\TaskIdentity\Bl\obj\Debug\net8.0\Bl.pdb
+D:\TaskIdentity\Bl\obj\Debug\net8.0\ref\Bl.dll
